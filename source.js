@@ -5,4 +5,4 @@ http.createServer(function (req, res) {
   res.write('Lab1<hr>Hello, <b><i>Snown005</i></b>');
   res.end();
 }).listen(8080);*/
-console.log('Hello, username');
+console.log('Hello, Snown005');
